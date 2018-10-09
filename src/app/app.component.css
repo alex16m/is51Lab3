@@ -1,0 +1,11 @@
+.app-container-grid {
+  display: grid;
+  grid-template-rows: 1fr 7fr 2fr;
+  height: 100vh;
+}
+
+.align-center {
+  margin: 15px;
+  border: 1px dashed rgb(104, 104, 104);
+  text-align: center;
+}

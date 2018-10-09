@@ -1,0 +1,17 @@
+.main-header{
+    background-color: #9d9b9b;
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    height: 100%;
+  }
+
+    
+  .align-center {
+    justify-self: center;
+    align-self: center;
+  }
+
+
+  #align-content {
+    align-content: baseline;
+  }
